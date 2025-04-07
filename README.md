@@ -4,13 +4,11 @@ This repository provides tools and guidance for testing the security of wireless
 
 ## Table of Contents
 
-1. [WEP (Wired Equivalent Privacy)](#wep)
-2. [WPA-PSK (Wi-Fi Protected Access Pre-Shared Key)](#wpa-psk)
-3. [WPS (Wi-Fi Protected Setup)](#wps)
-4. [WPA2/3 Enterprise](#wpa23-enterprise)
-5. [WPA2/3 AP-less](#wpa23-ap-less)
-6. [Tools and Resources](#tools)
-7. [Contributing](#contributing)
+1. [WEP (Wired Equivalent Privacy)](wep.md)
+2. [WPA-PSK (Wi-Fi Protected Access Pre-Shared Key)](wpa_psk.md)
+3. [WPS (Wi-Fi Protected Setup)](wps.md)
+4. [WPA2/3 Enterprise](mgt.md)
+5. [WPA2/3 AP-less](apless.md)
 
 ---
 
