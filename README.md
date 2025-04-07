@@ -62,7 +62,6 @@ This repository provides tools and guidance for testing the security of wireless
 
 - **Aircrack-ng**: For cracking WEP/WPA-PSK.
 - **Reaver/Bully**: For exploiting WPS.
-- **Kismet**: For wireless network discovery.
 - **Wireshark**: For capturing and analyzing network traffic, especially EAP handshakes.
 - **Hashcat/John the Ripper**: For cracking passwords.
 
